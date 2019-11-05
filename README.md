@@ -1,2 +1,1 @@
-# laugh
-Laugh's repo
+# Laugh's repo
